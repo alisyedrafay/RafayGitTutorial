@@ -1,10 +1,8 @@
 Hey , I am ingesting the data in this file
 now this time file gonna update
 
-<<<<<<< HEAD
 
 this file is use for data analystics
 this  file is working for only in master branch
 =======
 hey thic commit is for feature rafay 1
->>>>>>> feature_rafay_1
